@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Happy - Healthy life is our Youth]]></title>
+        <description><![CDATA[The Happy - Healthy life is our Youth]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 21:23:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome the Youth to our life]]></title>
+            <description><![CDATA[<article><h1>Welcome the Youth to our life</h1><p>Hello world, hello Youth </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4a3681-9d47-466a-8e3c-c31e008844e4.png"></article>]]></description>
+            <link>undefinedwelcome-the-youth-to-our-life/index.html</link>
+            <guid isPermaLink="false">c6ee6189-0066-47b0-9173-733fdd3216eb</guid>
+            <pubDate>Tue, 12 Jan 2016 21:23:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
