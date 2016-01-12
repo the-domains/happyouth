@@ -1,6 +1,6 @@
 name: happyouth
 favicon: null
-layout_spectrum: 0.46221840009093285
+layout_spectrum: 0.43318
 typography_spectrum: 0.1210262596141547
 title: The Happy - Healthy life is our Youth
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ffffff'
+    - '#83b742'
+    - '#29272b'
+    - '#b0694a'
+    - '#e8a7c9'
   brandStrength: 0.4808624323923141
   lightness: 0.6098049427382648
   saturation: 0.05052006314508617
