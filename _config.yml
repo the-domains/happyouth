@@ -1,29 +1,41 @@
-name: happyouth
-favicon: null
-layout_spectrum: 0.43318
-typography_spectrum: 0.18282
-title: The Happy - Healthy life is our Youth
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.43318
+title: The Happy - Healthy life is our Youth
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.05052006314508617
+  brandStrength: 0.4808624323923141
+  rhythmicContrast: 0.07698802649974823
   brandColors:
     - '#ffffff'
     - '#83b742'
     - '#29272b'
     - '#b0694a'
     - '#e8a7c9'
-  brandStrength: 0.4808624323923141
   lightness: 0.6098049427382648
-  saturation: 0.05052006314508617
-  rhythmicContrast: 0.07698802649974823
 purpose: []
+favicon: null
+name: happyouth
+typography_spectrum: 0.18282
